@@ -21,6 +21,10 @@ body {
 	font-size: 1.2rem;
 }
 
+.main-title {
+	font-family: 'Sriracha', cursive;
+}
+
 .main {
 	background-image: url(../images/ldn.jpeg);
 	background-repeat: no-repeat;
