@@ -72,6 +72,11 @@ body {
 	justify-content: space-around;
 }
 
+.date-insert,
+.temperature-insert {
+	font-weight: bold;
+}
+
 .main-footer {
 	display:flex;
 	justify-content: center;
