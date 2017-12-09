@@ -4,7 +4,7 @@ var description = document.querySelectorAll(".description-insert");
 var icon = document.querySelectorAll("img");
 
 
-const dataJSON = "http://api.openweathermap.org/data/2.5/forecast?q=London&appid=33fb7454eb75c6a062a86f7f0ee2695a&units=metric";
+const dataJSON = "https://api.openweathermap.org/data/2.5/forecast?q=London&appid=33fb7454eb75c6a062a86f7f0ee2695a&units=metric";
 fetch(dataJSON)
 	.then(response => response.json())
 	.then(pasteData)
