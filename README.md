@@ -16,7 +16,7 @@ The user of the app can easily get acess to 5 days London forecast display. Date
 I've done the research through Google, comparing different app designs in order to find the simple but refined appealing idea for the basic version of the app 
 
 
-##Target Audience 
+## Target Audience 
 
 Typical user of the app is a young specialist, who likes to plan in advance and be as ready as possible for different uncontrollable changes (like weather)
 
@@ -32,8 +32,8 @@ Typical user of the app is a young specialist, who likes to plan in advance and 
 
 ## Contribution
 
-*Designed by:* Olena Kashuba
+*Designed by:* **Olena Kashuba**
 
-*HTML, CSS:*
+*HTML, CSS:* **Olena Kashuba**
 
-*JS:* Olena Kashuba, Yevhen Sydorov
+*JS:* **Olena Kashuba, Yevhen Sydorov**
